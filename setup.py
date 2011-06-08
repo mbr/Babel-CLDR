@@ -31,7 +31,7 @@ except ImportError:
 
 setup(
     name = 'Babel',
-    version = '1.0',
+    version = '1.0dev_mbr1',
     description = 'Internationalization utilities',
     long_description = \
 """A collection of tools for internationalizing Python applications.""",
